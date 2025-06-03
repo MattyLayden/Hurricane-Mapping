@@ -13,7 +13,7 @@ The main idea behind this project was to translate a large and complex data set 
 
 <img src="https://github.com/user-attachments/assets/25dbcbe4-c16a-43ec-8eec-f27188462128" alt="Hurricane Map" width="600"/>
 
-##Tech stack:
+## Tech stack:
 **Backend & Analysis**
 Python (Pandas, NumPy, Statsmodels, BeautifulSoup), PostgreSQL, SQL, ARIMA/SARIMA time series modelling
 Django
