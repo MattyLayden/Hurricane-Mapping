@@ -15,11 +15,16 @@ The main idea behind this project was to translate a large and complex data set 
 
 ## Tech stack:
 **Backend & Analysis**
+
 Python (Pandas, NumPy, Statsmodels, BeautifulSoup), PostgreSQL, SQL, ARIMA/SARIMA time series modelling
+
 Django
+
 Matplotlib
 
+
 **Frontend**
+
 React.Js, JavaScript, Leaflet.js for mapping
 
 ## Initial strategy
