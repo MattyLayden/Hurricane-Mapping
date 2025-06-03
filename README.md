@@ -6,7 +6,8 @@ Please find a 3 minute showcase here (Youtube Link via thumbnail):
 
 [![Watch the video](https://img.youtube.com/vi/NKFy-NGPxcw/hqdefault.jpg)](https://youtu.be/NKFy-NGPxcw)
 
-[https://img.youtube.com/vi/NKFy-NGPxcw/hqdefault.jpg)](https://youtu.be/NKFy-NGPxcw](https://youtu.be/NKFy-NGPxcw)
+
+(https://youtu.be/NKFy-NGPxcw)
 
 ## Introduction
 
