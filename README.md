@@ -8,7 +8,8 @@ The main idea behind this project was to translate a large and complex data set 
 
 <img src="https://github.com/user-attachments/assets/25dbcbe4-c16a-43ec-8eec-f27188462128" alt="Hurricane Map" width="600"/>
 
-Initial strategy:
+
+<u>**Initial strategy:**</u>
 
 The dataset contained numerous incomplete entries, with the value **-999** used to denote missing data. I cleaned the data in my scripts to ensure that only relevant information was added to the database. The quality of the data also varied over time: from **1851 to 2004**, only basic storm information was available. However, starting in **2004**, more detailed entries were introduced, including wind direction at each storm point, as well as additional metadata such as fatalities and estimated costs sourced from Wikipedia.
 
