@@ -67,12 +67,13 @@ Since the ENSO indices already account for multi-year phase shifts, I modeled my
 
 ![Image](https://github.com/user-attachments/assets/acc54860-db81-4346-96aa-37f09c001f2b)
 
-With monthly predictions for 2025 from both variables, I estimated the frequency of storms per month using a Poisson distribution based on historical storm counts. For regression analysis, any categorical variables such as hurricane classification were encoded into numerical values for regression analysis.
+Using the monthly predictions for 2025 from the SST and ENSO variables, I estimated the expected number of storms each month by modeling storm counts with a Poisson distribution based on historical data.
 
-To predict monthly storm features, I first created a table by normalising and obtaining all relevant data, using SQL joins and other processing techniques. 
+For the regression analysis, I converted categorical variables, such as hurricane classification, into numerical values to ensure compatibility with the linear regression model.
 
-Finally, I applied a linear regression model to explore the relationships between ENSO and SST predictors and hurricane characteristics such as maximum wind speed, location and radius.
+To prepare the data for modeling, I created a consolidated table by normalizing and joining all relevant datasets using SQL queries and data processing techniques.
 
+Finally, I applied a linear regression model to investigate how the ENSO and SST predictors relate to hurricane characteristics, including maximum wind speed, track location, and storm radius, with the goal of predicting these features on a monthly basis.
 
 
 
